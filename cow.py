@@ -1,0 +1,2 @@
+def cow():
+    print('Muh!')
