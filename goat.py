@@ -1,2 +1,2 @@
-def (goat):
-	print("Mehhhh!")
+def goat():
+    print("Mehhhh!")
