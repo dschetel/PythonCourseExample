@@ -1,0 +1,2 @@
+def (goat):
+	print("Mehhhh!")
