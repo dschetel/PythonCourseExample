@@ -3,7 +3,7 @@
 
 ## Clone the repository
 
-    git clone www.github.com/dschetel/PythonCourseExample
+    git clone https://github.com/dschetel/PythonCourseExample.git
 
 ## Create a new branch
 
